@@ -76,8 +76,7 @@ body{
 /* FOOTER */
 
  footer{
-    display: none;
-    /* display: flex; */
+    display: flex;
     position: fixed;
     min-width: 100%;
     bottom: 0;
@@ -127,6 +126,22 @@ body{
 
 .challenge p{
     font-size: 15px;
+}
+
+.challenge h3{
+    font-size: 15px;
+    color: rgb(77, 71, 71);
+    margin-top: 2%;
+}
+
+.integrantes{
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+
+.btn_container{
+    display: flex;
+    gap: 2%;
 }
 
 .challenge button{
