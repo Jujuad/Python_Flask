@@ -1,0 +1,117 @@
+===========================================================
+astah_uml.log
+date: 24 August 2023 19:06:22 BRT
+ver: UML 8.5.0 / 39c620
+java ver: 1.8.0_322
+java vendor: Temurin
+os name: Mac OS X
+os ver: 10.16
+look and feel: Mac OS X
+system scale: 100,00% (retina)
+===========================================================
+----------------------------------------------------------
+                   System Properties                      
+----------------------------------------------------------
+
+java.vendor=Temurin
+sun.java.launcher=SUN_STANDARD
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+os.name=Mac OS X
+LaunchModifierFlagOption=false
+sun.boot.class.path=/Applications/astah UML/astah UML.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/resources.jar:/Applications/astah UML/astah UML.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/rt.jar:/Applications/astah UML/astah UML.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/sunrsasign.jar:/Applications/astah UML/astah UML.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/jsse.jar:/Applications/astah UML/astah UML.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/jce.jar:/Applications/astah UML/astah UML.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/charsets.jar:/Applications/astah UML/astah UML.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/jfr.jar:/Applications/astah UML/astah UML.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/classes
+LibraryDirectory=/Users/juliaandrade/Library
+LaunchModifierFlagCommand=false
+MusicDirectory=/Users/juliaandrade/Music
+java.vm.specification.vendor=Oracle Corporation
+java.runtime.version=1.8.0_322-b06
+SystemCachesDirectory=/Library/Caches
+SystemLibraryDirectory=/Library
+user.name=juliaandrade
+user.language=pt
+sun.boot.library.path=/Applications/astah UML/astah UML.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib
+astah.plugin.enabled=true
+java.version=1.8.0_322
+user.timezone=America/Sao_Paulo
+sun.arch.data.model=64
+http.nonProxyHosts=local|*.local|169.254/16|*.169.254/16
+java.endorsed.dirs=/Applications/astah UML/astah UML.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/endorsed
+sun.cpu.isalist=
+sun.jnu.encoding=UTF-8
+file.encoding.pkg=sun.io
+MoviesDirectory=/Users/juliaandrade/Movies
+file.separator=/
+java.specification.name=Java Platform API Specification
+LaunchModifierFlagControl=false
+LaunchModifierFlagFunction=false
+java.class.version=52.0
+user.country=BR
+java.home=/Applications/astah UML/astah UML.app/Contents/PlugIns/Java.runtime/Contents/Home/jre
+java.vm.info=mixed mode
+os.version=10.16
+AutosavedInformationDirectory=/Users/juliaandrade/Library/Autosave Information
+sun.font.fontmanager=sun.font.CFontManager
+path.separator=:
+java.vm.version=25.322-b06
+sun.awt.enableExtraMouseButtons=true
+PicturesDirectory=/Users/juliaandrade/Pictures
+java.awt.printerjob=sun.lwawt.macosx.CPrinterJob
+sun.io.unicode.encoding=UnicodeBig
+awt.toolkit=sun.lwawt.macosx.LWCToolkit
+socksNonProxyHosts=local|*.local|169.254/16|*.169.254/16
+ftp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16
+user.home=/Users/juliaandrade
+CachesDirectory=/Users/juliaandrade/Library/Caches
+java.specification.vendor=Oracle Corporation
+apple.laf.useScreenMenuBar=true
+LaunchModifierFlagCapsLock=false
+java.library.path=/Applications/astah UML/astah UML.app/Contents/java/lib/rlm
+java.vendor.url=https://adoptium.net/
+java.vm.vendor=Temurin
+gopherProxySet=false
+UserHome=/Users/juliaandrade
+java.runtime.name=OpenJDK Runtime Environment
+sun.java.command=JP.co.esm.caddies.jomt.Jude
+java.class.path=/Applications/astah UML/astah UML.app/Contents/Java/Classes:/Applications/astah UML/astah UML.app/Contents/Java/astah-api.jar:/Applications/astah UML/astah UML.app/Contents/Java/astah-uml.jar
+ApplicationSupportDirectory=/Users/juliaandrade/Library/Application Support
+java.vm.specification.name=Java Virtual Machine Specification
+java.vm.specification.version=1.8
+sun.cpu.endian=little
+DocumentsDirectory=/Users/juliaandrade/Documents
+sun.os.patch.level=unknown
+ApplicationDirectory=/Users/juliaandrade/Applications
+java.io.tmpdir=/var/folders/3t/d3m269tj77g5j65skd726_h40000gp/T/
+java.vendor.url.bug=https://github.com/adoptium/adoptium-support/issues
+LaunchModifierFlagNumericPad=false
+os.arch=x86_64
+java.awt.graphicsenv=sun.awt.CGraphicsEnvironment
+DownloadsDirectory=/Users/juliaandrade/Downloads
+java.ext.dirs=/Users/juliaandrade/Library/Java/Extensions:/Applications/astah UML/astah UML.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+user.dir=/Users/juliaandrade
+SystemApplicationDirectory=/Applications
+LaunchModifierFlagShift=false
+line.separator=
+
+DarkMode=false
+SandboxEnabled=true
+java.vm.name=OpenJDK 64-Bit Server VM
+astah.edition=uml
+SystemUserDirectory=/Users
+file.encoding=UTF-8
+SharedPublicDirectory=/Users/juliaandrade/Public
+LaunchModifierFlags=0
+java.specification.version=1.8
+SystemApplicationSupportDirectory=/Library/Application Support
+LaunchModifierFlagHelp=false
+DesktopDirectory=/Users/juliaandrade/Desktop
+
+----------------------------------------------------------
+LN = -
+----------------------------------------------------------
+
+
+----------------------------------------------------------
+                   Plugin Infos                      
+----------------------------------------------------------
+
+org.apache.felix.framework (4.0.3) "System Bundle" [] [ACTIVE:Enable]
+com.change_vision.astah.extension.plugin.script (2.0.1) "Script Plugin" [7.2 - pro,uml] [INSTALLED:Enable]

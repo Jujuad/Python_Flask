@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setup:LocationCatalog
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:setup="http://www.eclipse.org/oomph/setup/1.0">
+  <installation>
+    <key href="file:/Users/juliaandrade/eclipse/jee-2023-03/Eclipse%20-%20cópia.app/Contents/Eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/Users/juliaandrade/FIAP/CP2%20-%20DDD/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <installation>
+    <key href="file:/Users/juliaandrade/eclipse/jee-2023-032/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/Users/juliaandrade/FIAP/CP2%20-%20DDD/PortoSeguro/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <installation>
+    <key href="file:/Users/juliaandrade/eclipse/jee-2023-03/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/Users/juliaandrade/FIAP/DDD%20-%20GS/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/Users/juliaandrade/FIAP/CP2%20-%20DDD/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/Users/juliaandrade/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/Users/juliaandrade/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <workspace>
+    <key href="file:/Users/juliaandrade/FIAP/CP2%20-%20DDD/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/Users/juliaandrade/eclipse/jee-2023-03/Eclipse%20-%20cópia.app/Contents/Eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/Users/juliaandrade/eclipse/jee-2023-03/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/Users/juliaandrade/FIAP/CP2%20-%20DDD/PortoSeguro/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/Users/juliaandrade/eclipse/jee-2023-032/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/Users/juliaandrade/FIAP/DDD%20-%20GS/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/Users/juliaandrade/eclipse/jee-2023-03/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/Users/juliaandrade/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/Users/juliaandrade/eclipse/jee-2023-03/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/Users/juliaandrade/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/Users/juliaandrade/eclipse/jee-2023-03/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+</setup:LocationCatalog>
