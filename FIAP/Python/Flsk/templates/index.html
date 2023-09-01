@@ -1,0 +1,10 @@
+{% extends 'base.html' %} {% block content %}
+<h1>Bem vindo!</h1>
+<h3>Essa é a pagina inicial da aula de Flask.</h3>
+
+<img
+  class="dog"
+  src="{{ url_for('static', filename='dog1.jpeg') }}"
+  alt="Cachorrinho Feliz"
+/>
+{% endblock %}
